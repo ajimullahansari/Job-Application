@@ -1,3 +1,3 @@
 # Job-Application
 Using html and css.
-![Image](https://github.com/user-attachments/assets/bcc6496b-ea39-45e9-a4a2-d66753a997e9)
+![Image](https://github.com/user-attachments/assets/738e1a0d-7b37-4205-b22f-845a483b1257)
